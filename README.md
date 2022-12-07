@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [www.esaad.com](My Portfolio)
+- 👨‍💻 All of my projects are available at [My Prtfolio](www.esaad.com])
 
 - 📝 I regularly write articles on [www.hackawa.com](www.hackawa.com)
 
