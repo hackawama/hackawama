@@ -1,16 +1,14 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.acr.org%2FPractice-Management-Quality-Informatics%2FInformatics%2FCybersecurity-Resources&psig=AOvVaw0pofl1bCyZrtZDGHLgYHrs&ust=1670506908816000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjct63R5_sCFQAAAAAdAAAAABAJ))]
+
 <h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">Self-Taught FullStack Developper, CyberSecurity Student</h3>
 
-- 🔭 I’m currently working on **CyberSecurity Community**
+- 🔭 I’m currently working on **Building CyberSecurity Community** 
 
 - 🌱 I’m currently learning **Docker, SDLCS, Python**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Moroccan CyberSecurity**
-
-- 👨‍💻 All of my projects are available at [www.esaad.com](www.esaad.com)
+- 👨‍💻 All of my projects are available at [www.esaad.com](My Portfolio)
 
 - 📝 I regularly write articles on [www.hackawa.com](www.hackawa.com)
 
