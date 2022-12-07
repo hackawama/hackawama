@@ -8,15 +8,15 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [My Prtfolio](www.esaad.com])
+- 👨‍💻 All of my projects are available at [My Portfolio](www.esaad.com])
 
-- 📝 I regularly write articles on [www.hackawa.com](www.hackawa.com)
+- 📝 I regularly write articles on [My Blog](www.hackawa.com)
 
 - 💬 Ask me about **JAVA, SPRING BOOT , REACT JS/NATIVE,NODE JS**
 
 - 📫 How to reach me **isaady2.0@gmail.com**
 
-- 📄 Know about my experiences [www.esaad.com/cv.pdf](www.esaad.com/cv.pdf)
+- 📄 Know about my experiences [CV](www.esaad.com/cv.pdf)
 
 - ⚡ Fun fact **I love my wife**
 
